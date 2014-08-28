@@ -1,4 +1,4 @@
-#Contact us form
+#Contact us form (http://rubyonrailshelp.wordpress.com/2014/01/08/rails-4-simple-form-and-mail-form-to-make-contact-form/)
 
 
 In gemfile add the following gems,
