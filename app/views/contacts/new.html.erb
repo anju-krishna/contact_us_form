@@ -1,0 +1,10 @@
+<h1>Contact Us</h1>
+  <%= simple_form_for @contact do |f| %>
+    <%= f.input :name %> 
+    <%= f.input :email %>    
+    <%= f.input :message, :as => :text%>
+    <div>
+      </br>
+      <%= f.button :submit, 'Send message', :class=> "btn btn-primary" %>
+    </div>
+  <% end %>
