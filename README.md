@@ -3,7 +3,6 @@
 
 In gemfile add the following gems,
 
-	gem 'mail_form'
     gem 'simple_form'
     gem 'quiet_assets'
     gem 'bootstrap-sass'
