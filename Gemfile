@@ -43,3 +43,4 @@ gem 'simple_form'
 gem 'quiet_assets'
 gem 'bootstrap-sass'
 gem 'autoprefixer-rails'
+
